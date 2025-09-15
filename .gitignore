@@ -1,0 +1,21 @@
+# Large video files - too big for GitHub
+assets/video1/video.mp4
+assets/video4/Final.mp4
+
+# Other large media files
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Node modules if any
+node_modules/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
