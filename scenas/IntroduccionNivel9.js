@@ -134,7 +134,7 @@ class IntroduccionNivel9 extends Phaser.Scene {
       if (sliderContainer && sliderContainer.parentNode) {
         sliderContainer.parentNode.removeChild(sliderContainer);
       }
-      this.scene.start("scenaFallos");
+      this.scene.start("DiagnosticoSistemas");
     });
   }
 }
